@@ -74,7 +74,7 @@
 >[Результаты проекта](https://docs.google.com/spreadsheets/d/1JG_vcn0JqBbNecsfivSa69gUAycGOm8h/edit?usp=sharing&ouid=102166232610093561956&rtpof=true&sd=true)
 
 Итоги:
-1. Динамика покупок и прохождений уроков на платформе и изменения балансов студентов
+1. Динамика покупок и прохождений уроков на платформе и изменения балансов студентов  
 
 ## Контактная информация
 - Email: lkocetkova10@gmail.com
